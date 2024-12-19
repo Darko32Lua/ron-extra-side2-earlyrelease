@@ -1,0 +1,172 @@
+{
+	"player1": "bf",
+	"gfVersion": "gf",
+	"notes": [
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[0, 5, 0],
+				[409.090909090909, 5, 0],
+				[545.454545454545, 6, 409.090909090909],
+				[1090.90909090909, 7, 272.727272727273],
+				[1500, 6, 0],
+				[1636.36363636364, 5, 204.545454545455],
+				[2045.45454545455, 4, 0]
+			],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[2181.81818181818, 5, 0],
+				[2590.90909090909, 5, 0],
+				[2727.27272727273, 6, 477.272727272727],
+				[3272.72727272727, 7, 272.727272727273],
+				[3681.81818181818, 6, 0],
+				[3818.18181818182, 5, 272.727272727273],
+				[4227.27272727273, 4, 0]
+			],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[4363.63636363636, 6, 0],
+				[4772.72727272727, 6, 0],
+				[4909.09090909091, 5, 477.272727272727],
+				[5454.54545454545, 4, 272.727272727273],
+				[5863.63636363636, 5, 0],
+				[6000, 6, 272.727272727273],
+				[6409.09090909091, 7, 0]
+			],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[6545.45454545454, 4, 136.363636363636],
+				[6954.54545454545, 4, 0],
+				[7090.90909090909, 5, 409.090909090909],
+				[7636.36363636364, 6, 272.727272727273],
+				[8045.45454545454, 5, 0],
+				[8181.81818181818, 7, 0],
+				[8590.90909090909, 6, 0]
+			],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[8727.27272727273, 1, 0],
+				[9136.36363636363, 1, 0],
+				[9272.72727272727, 2, 0],
+				[9818.18181818182, 3, 0],
+				[10227.2727272727, 2, 0],
+				[10363.6363636364, 1, 0],
+				[10772.7272727273, 0, 0]
+			],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[10909.0909090909, 1, 0],
+				[11318.1818181818, 1, 0],
+				[11454.5454545455, 2, 0],
+				[12000, 3, 0],
+				[12409.0909090909, 2, 0],
+				[12545.4545454545, 1, 0],
+				[12954.5454545455, 0, 0]
+			],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[13090.9090909091, 2, 0],
+				[13500, 2, 0],
+				[13636.3636363636, 1, 0],
+				[14181.8181818182, 0, 0],
+				[14590.9090909091, 1, 0],
+				[14727.2727272727, 2, 0],
+				[15136.3636363636, 3, 0]
+			],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[15272.7272727273, 0, 0],
+				[15681.8181818182, 0, 0],
+				[15818.1818181818, 1, 0],
+				[16363.6363636364, 2, 0],
+				[16772.7272727273, 1, 0],
+				[16909.0909090909, 3, 0],
+				[17318.1818181818, 2, 0]
+			],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		}
+	],
+	"events": [],
+	"player2": "bloodshedron",
+	"disableNoteRGB": true,
+	"offset": 0,
+	"splashSkin": "noteSplashes",
+	"song": "OLDFILEMANIP",
+	"needsVoices": false,
+	"stage": "madRon",
+	"arrowSkin": "NOTE_assets",
+	"bpm": 110,
+	"speed": 2.3,
+	"format": "psych_v1"
+}

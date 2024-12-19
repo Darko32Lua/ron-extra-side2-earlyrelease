@@ -1,0 +1,5 @@
+you know.
+Value 1: how much health to gain
+NOTE:
+Max health is 1, and obviously minimum
+health is 0.

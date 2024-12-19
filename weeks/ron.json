@@ -1,0 +1,45 @@
+{
+	"storyName": "songs from the wiki",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"oldfilemanip",
+			"icon-hellron",
+			[
+				0,
+				0,
+				53
+			]
+		],
+		[
+			"beware",
+			"icon-hellron not used",
+			[
+				0,
+				0,
+				13
+			]
+		],
+		[
+			"bleeding-b-side",
+			"death",
+			[
+				0,
+				0,
+				4
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"weekName": "Ron scrapped/unused ost",
+	"hiddenUntilUnlocked": false
+}

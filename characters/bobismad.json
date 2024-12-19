@@ -1,0 +1,23 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-13, -18],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bobismad",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/hellbob_assets",
+	"position": [0, 350],
+	"healthicon": "bobismadgrr",
+	"flip_x": true,
+	"healthbar_colors": [0, 0, 0],
+	"camera_position": [0, 0],
+	"sing_duration": 3.4,
+	"scale": 1.1,
+	"_editor_isPlayer": true
+}

@@ -1,0 +1,54 @@
+{
+	"storyName": "songs from the wiki pt.2",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "mad",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"blr-v2",
+			"hahanotscary",
+			[
+				255,
+				20,
+				20
+			]
+		],
+		[
+			"blizzard",
+			"hellron-b",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"hemorrhage",
+			"tankman",
+			[
+				0,
+				0,
+				33
+			]
+		],
+		[
+			"bloodshed-2",
+			"hellron not used",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"mad",
+		""
+	],
+	"hideStoryMode": false,
+	"weekName": "Ron scrapped/unused ost",
+	"hiddenUntilUnlocked": false
+}

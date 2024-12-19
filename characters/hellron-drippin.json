@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [1238, 693],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dripron left"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dripron down"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dripron up"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dripron right"
+		},
+		{
+			"loop": true,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 12,
+			"name": "dripron idle",
+			"indices": [0, 1, 2, 3]
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/dripron",
+	"position": [-800, -350],
+	"healthicon": "death",
+	"flip_x": false,
+	"healthbar_colors": [0, 0, 0],
+	"camera_position": [190, 520],
+	"sing_duration": 6.1,
+	"scale": 0.05,
+	"_editor_isPlayer": false
+}
